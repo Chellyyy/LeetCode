@@ -1,5 +1,5 @@
 Progress  
-21 / 1779
+24 / 1779
 
 (Notes: :green_heart: means Easy, :yellow_heart: means Medium, :heart: means Hard)  
 题目来源：https://leetcode-cn.com/
@@ -16,6 +16,7 @@ Progress
 |0017|Letter Combinations of a Phone Number|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0017.letter-combinations-of-a-phone-number.js)| |:yellow_heart:|
 |0019|Remove Nth Node From End of List|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0019.remove-nth-node-from-end-of-list.js)| |:yellow_heart:|
 |0020|Valid Parentheses|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0020.valid-parentheses.js)| |:green_heart:|
+|0021|Merge Two Sorted Lists|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0021.merge-two-sorted-lists.js)| |:green_heart:|
 |0022|Generate Parentheses|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0022.generate-parentheses.js)| |:yellow_heart:|
 |0039|Combination Sum|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0039.combination-sum.js)| |:yellow_heart:|
 |0049|Group Anagrams|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0049.group-anagrams.js) | |:yellow_heart:|
@@ -24,6 +25,8 @@ Progress
 |0077|Subsets|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0078.subsets.js)| |:yellow_heart:|
 |0079|Word Search|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0079.word-search.js)| |:yellow_heart:|
 |0094|Binary Tree Inorder Traversal|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0094.binary-tree-inorder-traversal.js)|递归->迭代|:yellow_heart:|
+|0136|Single Number|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0136.single-number.js)| |:green_heart:|
+|0235|Lowest Common Ancestor of a Binary Search Tree|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0235.lowest-common-ancestor-of-a-binary-search-tree.js)| |:green_heart:|
 |0242|Valid Anagram|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0242.valid-anagram.js)| |:green_heart:|
 |0257|Binary Tree Paths|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0257.binary-tree-paths.js)| |:green_heart:|
 |0347|Top K Frequent Elements|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0347.top-k-frequent-elements.js)| |:yellow_heart:|
