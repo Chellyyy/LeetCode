@@ -1,5 +1,5 @@
 Progress  
-28 / 1779
+29 / 1779
 
 (Notes: :green_heart: means Easy, :yellow_heart: means Medium, :heart: means Hard)  
 题目来源：https://leetcode-cn.com/
@@ -34,3 +34,5 @@ Progress
 |0242|Valid Anagram|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0242.valid-anagram.js)| |:green_heart:|
 |0257|Binary Tree Paths|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0257.binary-tree-paths.js)| |:green_heart:|
 |0347|Top K Frequent Elements|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0347.top-k-frequent-elements.js)| |:yellow_heart:|
+|0530|Minimum Absolute Difference in BST|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0530.minimum-absolute-difference-in-bst.js)| |:yellow_heart:|
+
