@@ -36,4 +36,4 @@ Progress
 |0257|Binary Tree Paths|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0257.binary-tree-paths.js)| |:green_heart:|
 |0347|Top K Frequent Elements|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0347.top-k-frequent-elements.js)| |:yellow_heart:|
 |0530|Minimum Absolute Difference in BST|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0530.minimum-absolute-difference-in-bst.js)| |:yellow_heart:|
-
+|1002|Find Common Characters|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/1002.find-common-characters.js)| |:yellow_heart:|
