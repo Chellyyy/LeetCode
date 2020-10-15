@@ -1,5 +1,5 @@
 Progress  
-30 / 1779
+33 / 1779
 
 (Notes: :green_heart: means Easy, :yellow_heart: means Medium, :heart: means Hard)  
 题目来源：https://leetcode-cn.com/
@@ -31,6 +31,8 @@ Progress
 |0136|Single Number|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0136.single-number.js)| |:green_heart:|
 |0141|Linked List Cycle|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0141.linked-list-cycle.js)|遍历->快慢指针|:green_heart:|
 |0142|Linked List Cycle II|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0142.linked-list-cycle-II.js)|遍历->推导+快慢指针|:yellow_heart:|
+|0144|Binary Tree Preorder Traversal|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0144.binary-tree-preorder-traversal.js)|递归->迭代|:yellow_heart:|
+|0145|Binary Tree Postorder Traversal|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0145.binary-tree-postorder-traversal.js)|递归->迭代|:yellow_heart:|
 |0235|Lowest Common Ancestor of a Binary Search Tree|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0235.lowest-common-ancestor-of-a-binary-search-tree.js)| |:green_heart:|
 |0242|Valid Anagram|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0242.valid-anagram.js)| |:green_heart:|
 |0257|Binary Tree Paths|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0257.binary-tree-paths.js)| |:green_heart:|
