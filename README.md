@@ -40,6 +40,7 @@ Progress
 |0257|Binary Tree Paths|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0257.binary-tree-paths.js)| |:green_heart:|
 |0347|Top K Frequent Elements|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0347.top-k-frequent-elements.js)| |:yellow_heart:|
 |0530|Minimum Absolute Difference in BST|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0530.minimum-absolute-difference-in-bst.js)| |:yellow_heart:|
+|0763|Partition Labels|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0763.partition-labels.js)| |:yellow_heart:|
 |0844|Backspace String Compare|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0844.backspace-string-compare.js)| |:green_heart:|
 |0876|Middle of the Linked List|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0876.middle-of-the-linked-list.js)|快慢指针|:green_heart:|
 |0925|Long Pressed Name|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0925.long-pressed-name.js)| |:green_heart:|
