@@ -27,17 +27,47 @@
  *     this.next = (next===undefined ? null : next)
  * }
  */
+function ListNode(val, next) {
+this.val = (val===undefined ? 0 : val)
+this.next = (next===undefined ? null : next)
+}
 /**
  * @param {ListNode} head
  * @return {ListNode}
  */
 var swapPairs = function(head) {
     let h = new ListNode(-1, head);
-    while(h.next && h.next.next){
-        let temp = h.next.val;
-        h.next.val = h.next.next.val;
-        h.next.next.val = temp;
-        h = h.next.next;
+    let t = h.next;
+    let arr = [];
+    while(t){
+        arr.push(t);
+        t = t.next;
     }
-    return head;
+    let t2 = h;
+    while(arr.length>1){
+        let temp1 = arr.shift();
+        let temp2 = arr.shift();
+        temp1.next = null;
+        temp2.next = temp1;
+        t2.next = temp2;
+        t2 = t2.next.next;
+    }
+    if(arr.length){
+        t2.next = arr.shift();
+    }
+    return h.next;
+};
+
+var swapPairs = function(head) {
+    let dummy = new ListNode(-1, head);
+    let h = dummy;
+    while(h.next!==null && h.next.next!=null){
+        let node1 = h.next;
+        let node2 = h.next.next;
+        node1.next = node2.next;
+        node2.netx = node1;
+        h.next = node2;
+        h = node1;
+    }
+    return dummy.next;
 };

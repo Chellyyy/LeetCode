@@ -1,5 +1,5 @@
 Progress  
-33 / 1779
+40 / 1779
 
 (Notes: :green_heart: means Easy, :yellow_heart: means Medium, :heart: means Hard)  
 题目来源：https://leetcode-cn.com/
@@ -31,13 +31,19 @@ Progress
 |0136|Single Number|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0136.single-number.js)| |:green_heart:|
 |0141|Linked List Cycle|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0141.linked-list-cycle.js)|遍历->快慢指针|:green_heart:|
 |0142|Linked List Cycle II|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0142.linked-list-cycle-II.js)|遍历->推导+快慢指针|:yellow_heart:|
+|0143|Reorder List|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0143.reorder-list.js)| |:yellow_heart:|
 |0144|Binary Tree Preorder Traversal|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0144.binary-tree-preorder-traversal.js)|递归->迭代|:yellow_heart:|
 |0145|Binary Tree Postorder Traversal|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0145.binary-tree-postorder-traversal.js)|递归->迭代|:yellow_heart:|
+|0206|Reverse Linked List|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0206.reverse-linked-list.js)|递归、迭代|:green_heart:|
+|0234|Palindrome Linked List|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0234.palindrome-linked-list.js)|递归|:green_heart:|
 |0235|Lowest Common Ancestor of a Binary Search Tree|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0235.lowest-common-ancestor-of-a-binary-search-tree.js)| |:green_heart:|
 |0242|Valid Anagram|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0242.valid-anagram.js)| |:green_heart:|
 |0257|Binary Tree Paths|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0257.binary-tree-paths.js)| |:green_heart:|
 |0347|Top K Frequent Elements|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0347.top-k-frequent-elements.js)| |:yellow_heart:|
 |0530|Minimum Absolute Difference in BST|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0530.minimum-absolute-difference-in-bst.js)| |:yellow_heart:|
+|0763|Partition Labels|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0763.partition-labels.js)| |:yellow_heart:|
 |0844|Backspace String Compare|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0844.backspace-string-compare.js)| |:green_heart:|
+|0876|Middle of the Linked List|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0876.middle-of-the-linked-list.js)|快慢指针|:green_heart:|
+|0925|Long Pressed Name|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0925.long-pressed-name.js)| |:green_heart:|
 |1002|Find Common Characters|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/1002.find-common-characters.js)| |:yellow_heart:|
 |1024|Video Stitching|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/1024.video-stitching.js)| |:yellow_heart:|
