@@ -40,3 +40,4 @@ Progress
 |0530|Minimum Absolute Difference in BST|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0530.minimum-absolute-difference-in-bst.js)| |:yellow_heart:|
 |0844|Backspace String Compare|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0844.backspace-string-compare.js)| |:green_heart:|
 |1002|Find Common Characters|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/1002.find-common-characters.js)| |:yellow_heart:|
+|1024|Video Stitching|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/1024.video-stitching.js)| |:yellow_heart:|
