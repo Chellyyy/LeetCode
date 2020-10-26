@@ -1,5 +1,5 @@
 Progress  
-40 / 1779
+43 / 1779
 
 (Notes: :green_heart: means Easy, :yellow_heart: means Medium, :heart: means Hard)  
 题目来源：https://leetcode-cn.com/
@@ -43,7 +43,9 @@ Progress
 |0530|Minimum Absolute Difference in BST|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0530.minimum-absolute-difference-in-bst.js)| |:yellow_heart:|
 |0763|Partition Labels|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0763.partition-labels.js)| |:yellow_heart:|
 |0844|Backspace String Compare|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0844.backspace-string-compare.js)| |:green_heart:|
+|0845|Longest Mountain in Array|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0845.longest-mountain-in-array.js)| |:yellow_heart:|
 |0876|Middle of the Linked List|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0876.middle-of-the-linked-list.js)|快慢指针|:green_heart:|
 |0925|Long Pressed Name|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0925.long-pressed-name.js)| |:green_heart:|
 |1002|Find Common Characters|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/1002.find-common-characters.js)| |:yellow_heart:|
 |1024|Video Stitching|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/1024.video-stitching.js)| |:yellow_heart:|
+|1365|How Many Numbers Are Smaller Than the Current Number|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/1365.how-many-numbers-are-smaller-than-the-current-number.js)| |:green_heart:|
