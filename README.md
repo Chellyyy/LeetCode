@@ -1,5 +1,5 @@
 Progress  
-43 / 1779
+44 / 1779
 
 (Notes: :green_heart: means Easy, :yellow_heart: means Medium, :heart: means Hard)  
 题目来源：https://leetcode-cn.com/
@@ -48,4 +48,5 @@ Progress
 |0925|Long Pressed Name|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0925.long-pressed-name.js)| |:green_heart:|
 |1002|Find Common Characters|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/1002.find-common-characters.js)| |:yellow_heart:|
 |1024|Video Stitching|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/1024.video-stitching.js)| |:yellow_heart:|
+|1207|Unique Number of Occurrences|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/1207.unique-number-of-occurrences.js)| |:green_heart:||
 |1365|How Many Numbers Are Smaller Than the Current Number|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/1365.how-many-numbers-are-smaller-than-the-current-number.js)| |:green_heart:|
