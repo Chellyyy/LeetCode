@@ -43,6 +43,7 @@
  * 因此，数字总和 = 495 + 491 + 40 = 1026.
  *
  */
+
 /**
  * Definition for a binary tree node.
  * function TreeNode(val) {
@@ -55,47 +56,42 @@
  * @return {number}
  */
 var sumNumbers = function(root) {
-  // 深度优先
-  let arr = 0;
-  function getPath(f, data){
-    if(f){
-      data+= f.val;
-      getPath(f.left, data);
-      getPath(f.right, data);
-      !f.left && !f.right && (arr += parseInt(data))
+    // 深度优先、先序遍历
+    let result = 0;
+    function getPath(root, data) {
+        if(root){
+            data+= root.val;
+            getPath(root.left, data);
+            getPath(root.right, data);
+            !root.left && !root.right && (result+= parseInt(data))
+        }
     }
-  }
-  getPath(root, '');
-  return arr
+    getPath(root, '');
+    return result;
 };
+var sumNumbers2 = function(root) {
+    // 广度优先
+    let result = 0;
+    if(!root){
+        return result
+    }
 
-/**
- * @param {TreeNode} root
- * @return {number}
- */
-var sumNumbers1 = function(root) {
-  //广度优先
-  let sum = 0;
-  if(!root){
-    return sum;
-  }
-  let numsArr = [], rootsArr = [];
-  numsArr.push(root.val);
-  rootsArr.push(root);
-  while(rootsArr.length){
-    let r = rootsArr.shift();
-    let n = numsArr.shift();
-    if(!r.left && !r.right){
-      sum += n;
+    let rootList = [root];
+    let dataList = [root.val];
+    while (rootList.length) {
+        let r = rootList.shift();
+        let data = dataList.shift();
+        if(r.left){
+            rootList.push(r.left);
+            dataList.push(data*10+r.left.val)
+        }
+        if(r.right){
+            rootList.push(r.right);
+            dataList.push(data*10+r.right.val)
+        }
+        if(!r.left && !r.right){
+            result += data;
+        }
     }
-    if(r.left){
-      numsArr.push(n * 10 + r.left.val);
-      rootsArr.push(r.left);
-    }
-    if(r.right){
-      numsArr.push(n * 10 + r.right.val);
-      rootsArr.push(r.right);
-    }
-  }
-  return sum
+    return result
 };
