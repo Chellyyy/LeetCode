@@ -1,5 +1,5 @@
 Progress  
-51 / 1779
+52 / 1779
 
 
 (Notes: :green_heart: means Easy, :yellow_heart: means Medium, :heart: means Hard)  
@@ -22,6 +22,7 @@ Progress
 |0022|Generate Parentheses|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0022.generate-parentheses.js)| |:yellow_heart:|
 |0023|Merge k Sorted Lists|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0023.merge-k-sorted-lists.js)| |:heart:|
 |0024|Swap Nodes in Pairs|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0024.swap-nodes-in-pairs.js)| |:yellow_heart:|
+|0031|Next Permutation|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0031.next-permutation.js)| |:yellow_heart:|
 |0039|Combination Sum|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0039.combination-sum.js)| |:yellow_heart:|
 |0049|Group Anagrams|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0049.group-anagrams.js) | |:yellow_heart:|
 |0056|Merge Intervals|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0056.merge-intervals.js)| |:yellow_heart:|
