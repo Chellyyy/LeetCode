@@ -61,5 +61,6 @@ Progress
 |0941|Valid Mountain Array|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0941.valid-mountain-array.js)| |:green_heart:|
 |1002|Find Common Characters|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/1002.find-common-characters.js)| |:yellow_heart:|
 |1024|Video Stitching|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/1024.video-stitching.js)| |:yellow_heart:|
+|1122|Relative Sort Array|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/1122.relative-sort-array.js)| |:green_heart:|
 |1207|Unique Number of Occurrences|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/1207.unique-number-of-occurrences.js)| |:green_heart:||
 |1365|How Many Numbers Are Smaller Than the Current Number|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/1365.how-many-numbers-are-smaller-than-the-current-number.js)| |:green_heart:|
