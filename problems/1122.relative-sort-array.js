@@ -49,3 +49,20 @@ var relativeSortArray = function(arr1, arr2) {
     }
     return temp
 };
+// sort
+var relativeSortArray2 = function(arr1, arr2) {
+    return arr1.sort((a,b)=>{
+        const index1 = arr2.indexOf(a);
+        const index2 = arr2.indexOf(b);
+        if(index1===-1&&index2===-1){
+            // 两者都不在 arr2 中则升序排列
+            return a - b
+        }else if(index1===-1){
+            // 因为 a 不在 arr2 中，则 a 应该放在 b 后面
+            return 1
+        }else if(index1!==-1&&index2!==-1){
+            // 两者都在，则按照原始位置排列
+            return index1 - index2
+        }
+    })
+};
