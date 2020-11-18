@@ -1,5 +1,5 @@
 Progress  
-57 / 1779
+59 / 1779
 
 
 (Notes: :green_heart: means Easy, :yellow_heart: means Medium, :heart: means Hard)  
@@ -36,6 +36,7 @@ Progress
 |0122|Best Time to Buy and Sell Stock II|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0122.best-time-to-buy-and-sell-stock-ii.js)| |:green_heart:|
 |0127|Word Ladder|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0127.word-ladder.js)| |:yellow_heart:|
 |0129|Sum Root to Leaf Numbers|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0129.-sum-root-to-leaf-numbers.js)|深度优先、广度优先|:yellow_heart:|
+|0134|Gas Station|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0134.gas-station.js)| |:yellow_heart:|
 |0136|Single Number|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0136.single-number.js)| |:green_heart:|
 |0140|Word Break II|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0140.word-break-II.js)| |:heart:|
 |0141|Linked List Cycle|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0141.linked-list-cycle.js)|遍历->快慢指针|:green_heart:|
