@@ -1,5 +1,5 @@
 Progress  
-60 / 1779
+61 / 1779
 
 
 (Notes: :green_heart: means Easy, :yellow_heart: means Medium, :heart: means Hard)  
@@ -67,3 +67,4 @@ Progress
 |1122|Relative Sort Array|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/1122.relative-sort-array.js)|sort|:green_heart:|
 |1207|Unique Number of Occurrences|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/1207.unique-number-of-occurrences.js)| |:green_heart:||
 |1365|How Many Numbers Are Smaller Than the Current Number|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/1365.how-many-numbers-are-smaller-than-the-current-number.js)| |:green_heart:|
+|1370|Unique Number of Occurrences|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/1370.increasing-decreasing-string.js)| |:green_heart:||
