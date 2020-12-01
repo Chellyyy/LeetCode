@@ -1,5 +1,5 @@
 Progress  
-61 / 1779
+63 / 1779
 
 
 (Notes: :green_heart: means Easy, :yellow_heart: means Medium, :heart: means Hard)  
@@ -23,6 +23,7 @@ Progress
 |0023|Merge k Sorted Lists|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0023.merge-k-sorted-lists.js)| |:heart:|
 |0024|Swap Nodes in Pairs|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0024.swap-nodes-in-pairs.js)| |:yellow_heart:|
 |0031|Next Permutation|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0031.next-permutation.js)| |:yellow_heart:|
+|0034|Find First and Last Position of Element in Sorted Array|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0034.find-first-and-last-position-of-element-in-sorted-array.js)|双指针、二分查找|:yellow_heart:|
 |0039|Combination Sum|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0039.combination-sum.js)| |:yellow_heart:|
 |0049|Group Anagrams|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0049.group-anagrams.js) | |:yellow_heart:|
 |0056|Merge Intervals|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0056.merge-intervals.js)| |:yellow_heart:|
@@ -56,6 +57,7 @@ Progress
 |0463|Island Perimeter|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0463.island-perimeter.js)| |:green_heart:|
 |0530|Minimum Absolute Difference in BST|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0530.minimum-absolute-difference-in-bst.js)| |:yellow_heart:|
 |0763|Partition Labels|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0763.partition-labels.js)| |:yellow_heart:|
+|0767|Reorganize String|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0767.reorganize-string.js)| |:yellow_heart:|
 |0844|Backspace String Compare|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0844.backspace-string-compare.js)| |:green_heart:|
 |0845|Longest Mountain in Array|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0845.longest-mountain-in-array.js)| |:yellow_heart:|
 |0876|Middle of the Linked List|[JavaScript](https://github.com/Chellyyy/LeetCode/blob/master/problems/0876.middle-of-the-linked-list.js)|快慢指针|:green_heart:|
