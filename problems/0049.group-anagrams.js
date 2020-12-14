@@ -40,3 +40,19 @@ var groupAnagrams = function (strs) {
     }
     return Object.values(res);
 };
+
+var groupAnagrams1 = function (strs) {
+    // 利用质数的特征
+    const pre = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103];
+    const temp = 97;
+    let hMap = new Map();
+    for(let i of strs){
+        let key = 1;
+        for(let j of i){
+            key*= pre[j.charCodeAt() - temp]
+        }
+        // 引用类型
+        hMap.get(key) ? hMap.get(key).push(i) : hMap.set(key,[i])
+    }
+    return Array.from(hMap.values())
+}
